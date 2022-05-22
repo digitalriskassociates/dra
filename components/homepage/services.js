@@ -7,7 +7,7 @@ const Services = (props) => {
         <>
             <div className="bg-cream py-14">
                 <div className="max-w-screen-2xl px-5 md:px-14 block m-auto">
-                    <h3 className="text-brown font-light text-3xl md:text-6xl font-light pb-4">Our Services</h3>
+                    <h3 className="text-brown font-light text-3xl md:text-6xl font-light pb-4">Services</h3>
                     <p className="text-brown text-2xl pb-10 md:pb-24">We focus on decentralized finance and digital assets.</p>
                 </div>
             <div className="flex flex-wrap lg:flex-nowrap">
