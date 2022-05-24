@@ -6,7 +6,7 @@ export default function Expertise() {
                     Our Expertise
                 </h3>
                 <p className="text-center md:text-left text-white font-light text-xl pb-4 md:pb-10">
-                    Our expertise applies to both tradition and crypto.
+                    Our expertise applies to both traditional and decentralized finance.
                 </p>
                 <div>
                     <dl className="md:flex flex-wrap">
