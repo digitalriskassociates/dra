@@ -11,14 +11,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DRA</title>
-        <meta content="DRA" property="og:title" key="og:title" />
+        <title>DRD</title>
+        <meta content="DRD" property="og:title" key="og:title" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <Header />
-    <Services />
-    <Expertise />
-    <Contact />
     <Footer />
     </>
   )
